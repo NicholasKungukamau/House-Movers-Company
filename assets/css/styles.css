@@ -49,4 +49,12 @@ body{
     padding-bottom: 50px;
     width: 50%;
     }
+
+.in {
+    color: gray;
+    padding-left: 50px;
+    font-size: 40px;
+    font-weight: 40;
+    width: 50%;
+}
   
