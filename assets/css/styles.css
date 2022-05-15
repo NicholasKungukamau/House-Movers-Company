@@ -89,22 +89,79 @@ height: 60vh;
     height: 20opx;
 }
 
- #Top{
+.our{
+    margin-bottom: 200px;
+    font-size: 50px;
+    font-weight: 200;
+    margin-left: 200px;
+}
+
+ #mo> .Top{
     display: flex;
-    align-items: baseline;
+    margin-left: 200px;
+    align-items: stretch;
+
  }
 
-  #songa{
-display: flex;
-align-items: baseline;
- }
-
-#tp {
-margin-left: 100px;
-width: 30%;
+#chap> .songa{
+    display: flex;
+    margin-left: 200px;
+    margin-bottom: 150px;
 }
 
 #chap{
-    margin-left: 100px;
-width: 30%;
+    margin-top: 100px;
+}
+
+.a{
+    position: relative;
+       top: 220px;
+       left: -270px;
+}
+
+.mari{
+    position: relative;
+       top: 220px;
+       left: -270px;
+}
+
+.ufa{
+    position: relative;
+       top: 220px;
+       left: -270px;
+}
+
+.chapu{
+    position: relative;
+       top: 220px;
+       left: -270px;
+}
+
+.mash{
+    position: relative;
+       top: 220px;
+       left: -270px;
+}
+
+.upe{
+    position: relative;
+       top: 220px;
+       left: -270px;
+}
+
+.lo{
+    margin-left: -80px;
+}
+
+
+.fal{
+    margin-left: -230px;
+}
+
+.nani{
+    margin-left: -150px;
+}
+
+.pesi{
+    margin-left: -145px;
 }
