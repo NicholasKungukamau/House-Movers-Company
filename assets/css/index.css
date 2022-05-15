@@ -60,3 +60,53 @@ width: 600px;
      background-color: black;
      padding: 10px;
  }
+
+ .det{
+    width: 600px;
+    height: 100px;
+    margin-left: 300px;
+    border-width: 5px;
+}
+#des {
+    width: 40%;
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.feature{
+    opacity: 0.8;
+    margin-left: 300px;
+    font-size: large;
+}
+#feat {
+    display: flex;
+    padding-bottom: 50px;
+    margin-left: 300px;
+}
+
+
+#feat> .air1 {
+    padding-right: 100px;
+}
+#feat> .air2 {
+    padding-right: 100px;
+}
+ul li::marker{
+    content: '✔';
+    color: #ffa12f;
+}
+
+.sl{
+    margin-left: 300px;
+    font-size: xx-large;
+}
+
+.listin{
+    display: flex;
+    margin-left: 300px;
+}
+.but{
+    color: #FFAC12;
+}
+
