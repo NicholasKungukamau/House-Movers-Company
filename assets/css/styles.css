@@ -6,3 +6,12 @@
 body{
     font-family: 'Poppins','Actor','Adamina';
 }
+
+#nav {
+    background-image: url("../images/moving\ 1.png");
+    background-size: cover; 
+    background-position: center center;
+    height:75vh;
+    width: 140vh;
+    margin: 100px;  
+}
