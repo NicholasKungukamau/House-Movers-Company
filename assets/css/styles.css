@@ -71,6 +71,11 @@ height: 60vh;
     font-size: 50px;
     margin-bottom: 10px;
 }
+
+#eco> .the{
+    margin-left: 800px;
+    width: 50%;
+}
   
 .the{
     font-size: x-large;
@@ -78,6 +83,7 @@ height: 60vh;
     width: 58%;
     margin-bottom: 300px;
     margin-left: 20px;
+    
 }
 
 .learn{
@@ -165,3 +171,46 @@ height: 60vh;
 .pesi{
     margin-left: -145px;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    h
+    margi
+}
+.but{
+    color: #FAFF00;
+}
+
+.footerz{
+    margin-left: 200px;
+    padding-top: 100px;
+    margin-right: 100px;
+}
+
+.fb{
+   padding-top: 75px;
+   padding-right: 120px;
+}
+
+#colum{
+    display: flex;
+    padding-top: 150px;
+}
+#goz{
+    display: flex;
+    padding-top: 100px;
+padding-left: 200px;
+
+}
+
+.c2{
+    padding-left: 200px;
+    padding-bottom: 100px;
+
+}
+
+.c3{
+    padding-left: 200px;
+}
+
