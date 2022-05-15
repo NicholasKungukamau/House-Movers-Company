@@ -57,4 +57,36 @@ body{
     font-weight: 40;
     width: 50%;
 }
+
+.cust{
+height: 60vh;
+    width: 60vh;
+    margin: 100px;
+    padding-top: 20px;
+}
+
+.cut {
+    padding-top: 300px;
+    font-weight: 200;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
   
+.the{
+    font-size: x-large;
+    display: block;
+    width: 58%;
+    margin-bottom: 300px;
+    margin-left: 20px;
+}
+
+.learn{
+    background-color: black;
+    color: #FAFF00;
+    padding: 10px;
+    margin-top: 60px;
+    width: 150px;
+    height: 20opx;
+}
+
+
