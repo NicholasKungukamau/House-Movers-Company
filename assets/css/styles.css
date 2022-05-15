@@ -16,8 +16,13 @@ body{
     margin: 100px;  
 }
 
-#nav > .navbar> ul > li{
+#nav > .navbar> ul > li {
         display: inline-block;
         color: white;
         margin: 5px;
-           }
+ }
+
+ .navbar{
+        padding-left: 50%;
+        padding-top: 80px;
+    }
