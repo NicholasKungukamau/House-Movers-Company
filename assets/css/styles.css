@@ -15,3 +15,9 @@ body{
     width: 140vh;
     margin: 100px;  
 }
+
+#nav > .navbar> ul > li{
+        display: inline-block;
+        color: white;
+        margin: 5px;
+           }
