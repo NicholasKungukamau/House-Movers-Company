@@ -110,6 +110,30 @@ ul li::marker{
     color: #FFAC12;
 }
 
+.hs{
+    position: relative;
+       top: 240px;
+       left: -270px;
+}
+
+.hs1{
+    position: relative;
+       top: 240px;
+       left: -270px;
+}
+
+.hs2{
+    position: relative;
+       top: 240px;
+       left: -270px;
+}
+
+.hs3{
+    position: relative;
+       top: 240px;
+       left: -120px;
+}
+
 footer{
     margin-top: 200px;
     background-color: black;
