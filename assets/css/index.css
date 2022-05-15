@@ -37,3 +37,26 @@
     text-align: right;
     margin-left: 670px;
 }
+
+.propert{
+margin-left: 300px;
+width: 600px;
+ }
+
+.small {
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+#kay{
+    text-align: justify;
+    display: inline-table;
+    margin-left: 1030px;
+    
+}
+
+ .lea{
+     color: white;
+     background-color: black;
+     padding: 10px;
+ }
