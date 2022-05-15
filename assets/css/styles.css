@@ -38,5 +38,15 @@ body{
         padding: 10px;
          color: #FAFF00;
          background-color: black;
-           }
+ }
+
+     .change{
+        color: #FAFF00;
+    font-size: 60px;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-weight: 200;
+    padding-bottom: 50px;
+    width: 50%;
+    }
   
