@@ -213,4 +213,13 @@ padding-left: 200px;
 .c3{
     padding-left: 200px;
 }
+.tough{
+    opacity: ;
+}
 
+@media screen and (max-width:700px){
+   body {
+        background-color: green;
+    }
+    
+}
