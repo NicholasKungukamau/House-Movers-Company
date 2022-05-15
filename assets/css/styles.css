@@ -89,4 +89,22 @@ height: 60vh;
     height: 20opx;
 }
 
+ #Top{
+    display: flex;
+    align-items: baseline;
+ }
 
+  #songa{
+display: flex;
+align-items: baseline;
+ }
+
+#tp {
+margin-left: 100px;
+width: 30%;
+}
+
+#chap{
+    margin-left: 100px;
+width: 30%;
+}
