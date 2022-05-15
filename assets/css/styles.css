@@ -26,3 +26,17 @@ body{
         padding-left: 50%;
         padding-top: 80px;
     }
+
+#nav> .navbar> ul> li> .log {
+ padding: 10px;
+  color: black;
+  background-color: #FAFF00;
+
+  }
+
+   #nav> .navbar> ul> li> .logi {
+        padding: 10px;
+         color: #FAFF00;
+         background-color: black;
+           }
+  
